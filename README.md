@@ -61,3 +61,7 @@ ArcPay solves the problem of "Blockchain Complexity" by using AI to interpret an
 4. **Launch Application**
    ```bash
    npm run dev
+
+## Deployed on Vercel
+ ```bash
+https://arc-pay-ai.vercel.app/
