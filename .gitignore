@@ -1,0 +1,5 @@
+node_modules
+.next
+.env.local
+project_data.json
+recovery_file_2026-01-13.dat
