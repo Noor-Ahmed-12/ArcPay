@@ -51,3 +51,13 @@ ArcPay solves the problem of "Blockchain Complexity" by using AI to interpret an
    ```bash
    git clone <INSERT_YOUR_GITHUB_URL>
    cd arcpay-dashboard
+
+2. **Environment Configuration Create a .env.local file in the root directory and add your credentials:**
+   ```bash
+   CIRCLE_API_KEY=your_circle_api_key
+   GEMINI_API_KEY=your_gemini_api_key
+   ENTITY_SECRET=your_circle_entity_secret
+
+4. **Launch Application**
+   ```bash
+   npm run dev
